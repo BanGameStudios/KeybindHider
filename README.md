@@ -1,2 +1,2 @@
 # KeybindHider (Fabric/Forge/NeoForge)
-Repository dedicated to reports on [plugin]()/[mod]() issues.
+Dedicated repository for reports on [plugin]()/[mod]() issues and the wiki.
